@@ -6,7 +6,7 @@ Submitted by: Youssef Elshabasy
 
 Time spent: 8 hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: https://memory-game-echo.glitch.me
 
 ## Required Functionality
 
@@ -42,17 +42,27 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[YOUR ANSWER HERE]
+https://W3Schools.com
+
+My friends helped answer some of my questions with javascript
+- Kevin Chen    https://github.com/Chen1571
+- Andy Chen     https://github.com/ac8736
+- Devin Li      https://github.com/DLi7077
+
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+One of the biggest issues I had was with CSS, as getting things the way you want it to look can be done in multiple ways, as well as applying it correctly. Many have told me that you can get very fancy in CSS, but it is a skillset you develop overtime with constant usage, something I definetly strive to continue to learn about. The issue in particular was aligning everything neatly, aswell as trying to figure out how to properly center the buttons in a way to fit the pad I had behind it on. Another issue I had was trying to setup the timer. I was thinking on making it a 5 second countdown for each pattern play back. I was able to get the timer to work, but could not figure out how to clear it after resseting the last one, so after constant struggle, I decided to use this to my advantage after  asuggestion from a Andy Chen, and decided to go with making an overall 3 minute timer. That way, the player would lose if they could not achieve every pattern within that time frame.
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+One of the biggest resons why I am applying to SITE is to get my hands dirty in web development as it is a big part of the industry. Questions I have are:
+    - How do I cleanly manage CSS?
+    - What are some good practices in learning JavaScript as I am used to the type casted languages.
+    - Design layout is very important, so what are some patterns to follow when making good UI?
+    - How would I link up front-end to back-end code, and be able to retreive data to make my websites more dynamic?
+    - I would like to delve deeper into API's and the back-end more as I seem to have a keen interest in data and dynamic websites.
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
-
+If I were given more time to work on this project, I would definetly try to make my UI more fancy and aesthetically pleasing, as well as try to delve deeper in the timer situation and try to make the timer clean reset after each pattern call. I do have little experience with web coding, and do know some HTML and CSS, but I do struggle with JavaScript as it is not type written. This leads me to get lost in the code and have trouble keeping track in what functions are returning and doing to certain variables. JavaScript is pretty different to the languages I am in comfortable in like C# and C++. Overall, understanding the tools at hand better would definetly have given me more options and flexibility in what I could use to spruce the website even more.
 
 
 ## Interview Recording URL Link
