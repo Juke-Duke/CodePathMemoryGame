@@ -1,7 +1,7 @@
 body {
   font-family: Garamond, Arial, sans-serif;
   margin: 2em;
-  background-image: url(SpiralBG.png);
+  background-image: url(Images/SpiralBG.png);
   background-repeat: no-repeat;
   background-size: cover;
   color: white;
@@ -19,7 +19,7 @@ button {
 
 #GameButtonArea {
   text-align: center;
-  background-image: url("EchoPad.png");
+  background-image: url("Images/EchoPad.png");
   background-repeat: no-repeat;
   height: 500px;
   width: 500px;
